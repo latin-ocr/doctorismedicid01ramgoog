@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorismedicid01ramgoog/doctorismedicid01ramgoog_0241.png"; bbox 0 0 3825 6684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1918 6672">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1918 6672">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1918 6672; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1918 6672; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 12 6484 177 6556">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 12 6484 177 6556">
+     <span class='ocr_line' id='line_1_2' title="bbox 12 6484 177 6556; baseline 0.061 -23"><span class='ocrx_word' id='word_1_2' title='bbox 12 6503 38 6534; x_wconf 75' lang='lat' dir='ltr'><em>as</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 49 6484 76 6536; x_wconf 79' lang='lat' dir='ltr'><em>de</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 86 6504 177 6556; x_wconf 66' lang='lat' dir='ltr'><em>tgnant.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3 6620 255 6677">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3 6620 255 6677">
+     <span class='ocr_line' id='line_1_3' title="bbox 3 6620 255 6677; baseline 0.063 -15"><span class='ocrx_word' id='word_1_5' title='bbox 3 6626 47 6664; x_wconf 66' lang='lat' dir='ltr'><em>mis</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 59 6620 115 6667; x_wconf 77' lang='lat' dir='ltr'>causa</span> <span class='ocrx_word' id='word_1_7' title='bbox 123 6657 128 6675; x_wconf 84' lang='lat'>,</span> <span class='ocrx_word' id='word_1_8' title='bbox 138 6642 163 6670; x_wconf 82' lang='lat' dir='ltr'><em>cx</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 171 6629 255 6677; x_wconf 62' lang='lat' dir='ltr'><em>Galeno:</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
